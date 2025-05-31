@@ -1,12 +1,3 @@
-Sure! Here’s the updated `README.md` with the requested changes:
-
-* The **title is now larger**.
-* The **License section has been removed**.
-* I’ve also **explained what a PR (Pull Request)** is under the **Contributing** section.
-
----
-
-````markdown
 # 🎥🎥🎥 **YouTube Transcript Summarizer**
 
 Automatically generate concise summaries of YouTube videos using NLP!

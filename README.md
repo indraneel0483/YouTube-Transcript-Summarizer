@@ -1,9 +1,9 @@
-Here’s a clean and professional **README.md** for your **YouTube Transcript Summarizer** project:
+
 
 ---
 
 ````markdown
-# 🎥 YouTube Transcript Summarizer
+🎥 # YouTube Transcript Summarizer
 
 Automatically generate concise summaries of YouTube videos using NLP!
 

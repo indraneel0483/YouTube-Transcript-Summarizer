@@ -1,11 +1,17 @@
+Sure! Here’s the updated `README.md` with the requested changes:
 
+* The **title is now larger**.
+* The **License section has been removed**.
+* I’ve also **explained what a PR (Pull Request)** is under the **Contributing** section.
 
 ---
 
 ````markdown
-🎥 # YouTube Transcript Summarizer
+# 🎥🎥🎥 **YouTube Transcript Summarizer**
 
 Automatically generate concise summaries of YouTube videos using NLP!
+
+---
 
 ## 🚀 Overview
 
@@ -95,13 +101,13 @@ yt-transcript-summarizer/
 
 ## 🤝 Contributing
 
-Pull requests and suggestions are welcome! Please fork the repository and submit a PR.
+Contributions and suggestions are welcome!
 
----
+If you'd like to help:
 
-## 📜 License
-
-This project is open source under the [MIT License](LICENSE).
+1. Fork the repository.
+2. Make your changes.
+3. Open a **Pull Request (PR)** — this is a request to merge your changes into the main project so others can benefit from your improvements.
 
 ---
 
@@ -115,5 +121,5 @@ Computer Science Student
 
 ---
 
-Would you like help customizing this for deployment (e.g., adding it to your GitHub, adding a license file, or integrating Streamlit)?
+Let me know if you want to turn this into a web app or convert the notebook into a `.py` script.
 ```
